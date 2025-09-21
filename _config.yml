@@ -18,16 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CSCI 5502 Data Mining: Air Quality Project
+title: "CSCI 5502 Data Mining: Air Quality Project"
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This website hosts the CSCI 5502 Data Mining project on Air Quality Analysis by Max White 
-  and Shugavaneshwar Rajan 
+
+# This description uses YAML's block scalar (>-)
+# which folds multi-line text into one line.
+description: >-
+  This website hosts the CSCI 5502 Data Mining project on Air Quality Analysis
+  by Max White and Shugavaneshwar Rajan
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: ""     # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: jekyllrb
-github_username:  maxjwhite
-github_username:  'Shuga'
+
+# You can only have one github_username key.
+# If you want both, define a custom key instead.
+github_username: maxjwhite
+collaborator_github: Shuga
 
 # Build settings
 theme: minima
