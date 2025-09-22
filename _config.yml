@@ -32,6 +32,7 @@ url: ""     # the base hostname & protocol for your site, e.g. http://example.co
 
 head_pages:
   - intro.md
+  - index.md
 
 
 # You can only have one github_username key.
