@@ -33,12 +33,11 @@ url: ""     # the base hostname & protocol for your site, e.g. http://example.co
 head_pages:
   - intro.md
 
-twitter_username: jekyllrb
 
 # You can only have one github_username key.
 # If you want both, define a custom key instead.
 github_username: maxjwhite
-collaborator_github: Shuga
+collaborator_github: Shugavaneshwar
 
 # Build settings
 theme: minima
