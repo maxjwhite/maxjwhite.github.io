@@ -4,7 +4,7 @@ title: About Us
 permalink: /about/
 ---
 
-![Max White](/max.jpg){: style="width:120px; float:left; margin-right:15px; border-radius:50%;" }
+![Max White](/max.png){: style="width:120px; float:left; margin-right:15px; border-radius:50%;" }
 ### **Max White**
 *Data Analyst and Visualization Lead*
 
@@ -13,7 +13,7 @@ Hello, my name is Max White, I am a first year graduate student at the Universit
 
 
 
-![Max White](/shuga.jpg){: style="width:120px; float:left; margin-right:15px; border-radius:50%;" }
+![Max White](/shuga.png){: style="width:120px; float:left; margin-right:15px; border-radius:50%;" }
 ### **Shugavaneshwar Rajan**
 *Team Roles*
 
