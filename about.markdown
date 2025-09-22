@@ -10,4 +10,11 @@ Hello, my name is Max White, I am a first year graduate student at the Universit
 - [LinkedIn](www.linkedin.com/in/maxwell-white-0ba538337) [Github](https://github.com/maxjwhite)
 
 
+### **Shugavaneshwar Rajan**
+*Team Roles*
+
+Write your bio here
+- [LinkedIn]() [Github]()
+
+
 
