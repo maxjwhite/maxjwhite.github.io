@@ -1,9 +1,7 @@
 ---
 layout: page
-permalink: /index/
 ---
 
-# Project Overview
 ### Research Summary
 This project explores air quality trends by analyzing environmental data to identify patterns, correlations, and potential impacts of pollutants on public health and the environment. Using data mining and statistical methods, we clean, visualize, and cluster air quality indicators to uncover meaningful insights. Our goal is to provide an accessible analysis that highlights problem areas, supports informed decision-making, and raises awareness of the importance of air quality in shaping sustainable communities. The project focuses it's scope on Colorado data, but the applications will be tested on a larger National scale as well.
 
