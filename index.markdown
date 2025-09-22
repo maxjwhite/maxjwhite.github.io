@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /index/
 ---
 
 # Project Overview
