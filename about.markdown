@@ -4,7 +4,7 @@ title: About Us
 permalink: /about/
 ---
 
-![Max White]({{ "/max.png" | relative_url }})
+![Max White](/maxjwhite.github.io/max.png)
 ### **Max White**
 *Data Analyst and Visualization Lead*
 
