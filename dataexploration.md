@@ -29,7 +29,7 @@ We selected this dataset because it contains high-quality, standard, and readily
   <div style="text-align: center; width: 500px;">
     <p><strong>After</strong></p>
     <div style="display: flex; justify-content: center; gap: 10px;">
-      <img src="/image/after.png" alt="After 1" width="250">
+      <img src="/image/after.png" alt="After 1" width="500">
     </div>
   </div>
 
