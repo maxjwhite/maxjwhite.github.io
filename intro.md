@@ -2,7 +2,6 @@
 layout: page
 title: Introduction
 permalink: /intro/
-order: 3
 ---
 
   Air quality has been one of the most significant environmental issues throughout modern history. The industrial revolution, recent population growth, and infrastructure development have led to increasing concentrations of pollutants in the Earth’s Atmosphere. Research surrounding air quality focuses on measuring and understanding the pollutants that we release into the air we breath. Getting a better understanding of how they are released, how we interact with them gives us a better understanding of the effects on long term health, the environment, and the economy. According to the World Health Organization, an estimated 7 million premature deaths occur annually due to air pollution. The importance of this subject stems from the fact that everyone is affected by air quality, and developments that are discovered through this work have the potential to benefit everyone. Communities, governments, and corporations all stand to benefit from improvements in air quality analysis and the applications of the work are varied  with a high potential to be of use in areas we have not yet explored. In addition, understanding air quality patterns can inform city planning, disaster preparedness, and policy design. By focusing on air quality analysis, our research contributes to a growing global effort to improve quality of life and build more sustainable futures. 
