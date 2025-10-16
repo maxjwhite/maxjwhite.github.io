@@ -2,6 +2,7 @@
 layout: page
 title: Data Exploration
 permalink: /dataexploration/
+order: 3
 ---
 
 #### **Source**
