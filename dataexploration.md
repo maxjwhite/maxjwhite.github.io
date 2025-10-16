@@ -7,7 +7,7 @@ permalink: /dataexploration/
 #### **Source**
 <p>
 <div style="text-align: justify">  
-Our dataset comes from the <i>Air Quality Measures on the National Environmental Health Tracking Network</i>, a publicly available resource provided by the [CDC and EPA](https://catalog.data.gov/dataset/air-quality-measures-on-the-national-environmental-health-tracking-network). It contains nationwide measurements of key air pollutants, including PM2.5, PM10, and ozone levels, collected from approximately 4000 monitoring stations and satellites over multiple years that are managed by the EPA. These collection sites are most commonly in urban areas where air pollutants are at naturally higher levels, which is important to consider as we further investigate the relationship between human activity and pollutant levels.
+Our dataset comes from the <i>Air Quality Measures on the National Environmental Health Tracking Network</i>, a publicly available resource provided by the <a href='https://catalog.data.gov/dataset/air-quality-measures-on-the-national-environmental-health-tracking-network'>CDC and EPA</a>. It contains nationwide measurements of key air pollutants, including PM2.5, PM10, and ozone levels, collected from approximately 4000 monitoring stations and satellites over multiple years that are managed by the EPA. These collection sites are most commonly in urban areas where air pollutants are at naturally higher levels, which is important to consider as we further investigate the relationship between human activity and pollutant levels.
 </div>
 </p>
 
