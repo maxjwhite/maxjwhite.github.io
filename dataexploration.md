@@ -20,7 +20,28 @@ We selected this dataset because it contains high-quality, standard, and readily
 </p>
 
 #### **Before and After**
-A before and after of the data
+<div style="display: flex; justify-content: center; gap: 40px;">
 
-#### **Visuals**
-Some visuals to highlight on the page
+  <div style="text-align: center; width: 320px;">
+    <p><strong>Before</strong></p>
+    <img src="image/before.jpg" alt="Before" width="300">
+  </div>
+
+  <div style="text-align: center; width: 320px;">
+    <p><strong>After</strong></p>
+    <div style="display: flex; justify-content: center; gap: 10px;">
+      <img src="image/after.jpg" alt="After 1" width="145">
+      <img src="image/after2.jpg" alt="After 2" width="145">
+    </div>
+  </div>
+
+</div>
+
+<div style="max-width: 700px; margin: 20px auto; padding: 10px 15px; border: 1px solid #ccc; border-radius: 8px; background-color: #f9f9f9;">
+  <p style="font-size: 14px; color: #333;">
+    By breaking out and aggregating the original dataset on the 'MeasureName' feature, we were able to create a collection of separated_value datasets which just contain one measurement name and type. This allows for a more streamlined and simplified approach to analyzing specific subgroups of the data that we're interested in.
+  </p>
+</div>
+
+
+
