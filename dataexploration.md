@@ -22,16 +22,16 @@ We selected this dataset because it contains high-quality, standard, and readily
 #### **Before and After**
 <div style="display: flex; justify-content: center; gap: 40px;">
 
-  <div style="text-align: center; width: 320px;">
+  <div style="text-align: center; width: 500px;">
     <p><strong>Before</strong></p>
-    <img src="/image/before.png" alt="Before" width="300">
+    <img src="/image/before.png" alt="Before" width="500">
   </div>
 
-  <div style="text-align: center; width: 320px;">
+  <div style="text-align: center; width: 500px;">
     <p><strong>After</strong></p>
     <div style="display: flex; justify-content: center; gap: 10px;">
-      <img src="/image/after.png" alt="After 1" width="145">
-      <img src="/image/after2.png" alt="After 2" width="145">
+      <img src="/image/after.png" alt="After 1" width="250">
+      <img src="/image/after2.png" alt="After 2" width="250">
     </div>
   </div>
 
