@@ -4,7 +4,7 @@ title: About Us
 permalink: /about/
 ---
 
-![Max White](image/max.png){: style="width:120px; float:left; margin-right:15px; border-radius:50%;" }
+![Max White](/image/max.png){: style="width:120px; float:left; margin-right:15px; border-radius:50%;" }
 ### **Max White**
 *Data Analyst and Visualization Lead* **[LinkedIn](www.linkedin.com/in/maxwell-white-0ba538337) [Github](https://github.com/maxjwhite)**
 
@@ -12,7 +12,7 @@ Hello, my name is Max White, I am a first year graduate student at the Universit
 
 
 
-![Max White](image/shuga.png){: style="width:120px; float:left; margin-right:15px; border-radius:50%;" }
+![Max White](/image/shuga.png){: style="width:120px; float:left; margin-right:15px; border-radius:50%;" }
 ### **Shugavaneshwar Rajan**
 *Data Analyst and Model Creation Lead* **[LinkedIn](https://www.linkedin.com/in/shuga-vaneshwar-922603226/) [Github](https://github.com/NickStrain)**
 
