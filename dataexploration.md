@@ -5,13 +5,13 @@ permalink: /dataexploration/
 ---
 
 #### **Source**
-- HERE
+Writing about the source of the data
 
 #### **Why This Data?**
-- HERE
+Writing about why we chose this data for the project
 
 #### **Before and After**
-- HERE
+A before and after of the data
 
 #### **Visuals**
-- HERE
+Some visuals to highlight on the page
