@@ -2,6 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
+order: 4
 ---
 
 ![Max White](/max.png){: style="width:120px; float:left; margin-right:15px; border-radius:50%;" }
