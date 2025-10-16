@@ -19,7 +19,6 @@ We selected this dataset because it contains high-quality, standard, and readily
 </div>
 </p>
 
-#### **Before and After**
 <div style="display: flex; justify-content: center; gap: 40px;">
 
   <div style="text-align: center; width: 500px;">
@@ -31,7 +30,6 @@ We selected this dataset because it contains high-quality, standard, and readily
     <p><strong>After</strong></p>
     <div style="display: flex; justify-content: center; gap: 10px;">
       <img src="/image/after.png" alt="After 1" width="250">
-      <img src="/image/after2.png" alt="After 2" width="250">
     </div>
   </div>
 
