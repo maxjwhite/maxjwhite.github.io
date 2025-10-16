@@ -24,14 +24,14 @@ We selected this dataset because it contains high-quality, standard, and readily
 
   <div style="text-align: center; width: 320px;">
     <p><strong>Before</strong></p>
-    <img src="image/before.png" alt="Before" width="300">
+    <img src="/image/before.png" alt="Before" width="300">
   </div>
 
   <div style="text-align: center; width: 320px;">
     <p><strong>After</strong></p>
     <div style="display: flex; justify-content: center; gap: 10px;">
-      <img src="image/after.png" alt="After 1" width="145">
-      <img src="image/after2.png" alt="After 2" width="145">
+      <img src="/image/after.png" alt="After 1" width="145">
+      <img src="/image/after2.png" alt="After 2" width="145">
     </div>
   </div>
 
