@@ -41,5 +41,9 @@ We selected this dataset because it contains high-quality, standard, and readily
   </p>
 </div>
 
+<div style="text-align: center; margin-top: 20px;">
+  <img src="/image/after2.png" alt="Data Summary" style="max-width: 90%; height: auto; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
+</div>
+
 
 
