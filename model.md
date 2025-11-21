@@ -3,7 +3,6 @@ layout: page
 title: Models Implemented
 permalink: /model/
 ---
-### **Models**
 <p style="margin-bottom:0;"><strong>Regression</strong></p>
 <div style="text-align: justify;">
 Linear regression is a simple, interpretable model that quantifies how different air-quality measures relate to a continuous outcome, such as annual PM2.5 concentration. It serves as a strong baseline because it is fast, easy to evaluate, and helps reveal key predictor relationships before experimenting with more complex models.
